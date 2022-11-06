@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.SpringBootMicroservices</groupId>
-	<artifactId>user-service</artifactId>
+	<artifactId>user1-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>user-service</name>
-	<description>user-service</description>
+	<name>user1-service</name>
+	<description>user1-service</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
